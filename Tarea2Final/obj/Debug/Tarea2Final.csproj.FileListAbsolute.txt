@@ -1,0 +1,7 @@
+C:\Users\Leonal\source\repos\Tarea2Final\bin\Debug\Tarea2Final.exe.config
+C:\Users\Leonal\source\repos\Tarea2Final\bin\Debug\Tarea2Final.exe
+C:\Users\Leonal\source\repos\Tarea2Final\bin\Debug\Tarea2Final.pdb
+C:\Users\Leonal\source\repos\Tarea2Final\obj\Debug\Tarea2Final.csprojAssemblyReference.cache
+C:\Users\Leonal\source\repos\Tarea2Final\obj\Debug\Tarea2Final.csproj.CoreCompileInputs.cache
+C:\Users\Leonal\source\repos\Tarea2Final\obj\Debug\Tarea2Final.exe
+C:\Users\Leonal\source\repos\Tarea2Final\obj\Debug\Tarea2Final.pdb
